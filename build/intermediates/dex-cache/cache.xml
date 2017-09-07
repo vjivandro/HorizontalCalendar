@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sniper/.android/build-cache/c42a93043107e002b825d3a58bcbe49111e470d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/sniper/Desktop/project/git-demo/HorizontalCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b0b361bb37afd275a292ad1165f4e8c1592a454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sniper/Desktop/project/git-demo/HorizontalCalendar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b53f221305293df7521d8244e9c8713be0018ba">
+        <dex dex="/Users/sniper/Desktop/project/git-demo/HorizontalCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ba9638d9d28bea79a6cbf4ed65d8c82b3d4a95ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sniper/Desktop/project/git-demo/HorizontalCalendar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sniper/Desktop/project/git-demo/HorizontalCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_552ab5a5d06c493888879fc8495515cde2b4679e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sniper/.android/build-cache/db3928402fded749232551d179323c4ee4544746/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/sniper/Desktop/project/git-demo/HorizontalCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c099fd3b8fc03c837f1336e70aa171b88b85492e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sniper/.android/build-cache/c3723d45320837462696149ba2e1a9dde2e2180d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/sniper/Desktop/project/git-demo/HorizontalCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_120b7851d64d931a37a1efbfbe35cab9e50db8a7/classes.dex" />
+    </item>
+
+</items>
